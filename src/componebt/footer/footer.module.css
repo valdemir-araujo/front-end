@@ -1,0 +1,14 @@
+.conteiner mark{
+    font-weight: bolder;
+
+}
+.conteiner{
+    padding: 20px;
+}
+.conteiner h1{
+    text-align: center;
+}
+.conteiner hr{
+    height: 4px;
+    background-color: black;
+}

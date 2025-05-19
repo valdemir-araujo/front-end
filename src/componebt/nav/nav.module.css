@@ -1,0 +1,26 @@
+.conteiner{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+#logo3{
+    width: 300px;
+    height: 85px;
+    margin-left: 80px;
+}
+nav a{
+    color: rgb(6, 0, 61);
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+nav a:hover{
+    color: rgb(2, 82, 255);
+    
+}
+#contato{
+    margin-right: 250px;
+}
